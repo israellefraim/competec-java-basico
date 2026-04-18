@@ -1,2 +1,2 @@
 # competec-java-basico
-Curso de programação da USP Leste usando como linguagem, Java.
+Curso de programação da USP Leste usando a linguagem Java.
